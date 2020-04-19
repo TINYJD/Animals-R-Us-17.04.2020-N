@@ -1,0 +1,10 @@
+ÿlocalhost                                                                                                                                                                           root                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       R‰	2020-03-23 19:00:15 28620 [Note] Event Scheduler: Loaded 0 events
+2020-03-23 19:00:15 28620 [Note] C:\Users\niczy\DOWNLO~1\SOFTWA~1\SOFTWA~1\EASYPH~1\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-03-23 19:00:19 28620 [Note] C:\Users\niczy\DOWNLO~1\SOFTWA~1\SOFTWA~1\EASYPH~1\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2020-03-23 19:00:19 28620 [Note] Giving 0 client threads a chance to die gracefully
+2020-03-23 19:00:19 28620 [Note] Event Scheduler: Purging the queue. 0 events
+2020-03-23 19:00:19 28620 [Note] Shutting down slave threads
+2020-03-23 19:00:19 28620 [Note] Forcefully disconnecting 0 remaining clients
+2020-03-23 19:00:19 28620 [Note] Binlog end
